@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+    margin: 0;
+
+}
+
+h1, h2 ,h3 {
+    
+    font-weight: normal;
+    
+
+}
+h1{
+    font-family: "Raleway",sans-serif;
+    
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 45px;
+    margin:0;
+}
+h2 {
+    font-family: "Raleway",sans-serif;
+    font-size: 24px;
+    color: #f15b31;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 18px;
+}
+h3 {
+    font-family: "Raleway",sans-serif;
+    font-size: 24px;
+    color: black ;
+    letter-spacing:  1px;
+    font-weight: 600;
+    font-size: 20px;
+}
+header {
+    background-color: #f15b31;
+     color: #FFFFFF;
+     padding:30px 20px 0px;
+}
+ nav{
+     background-color: #00a6b3;
+    
+
+ }
+ a {
+     font-size: 20px;
+     margin: 0px;
+     color:#FFFFFF;
+ }
+ 
+ main {
+     width: 850px;
+     margin:0 auto;
+ }
+ img {
+     margin: 40px 8px;
+ }
+ footer {
+     padding: 0 20px 20px 0;
+     background-color: #0d2c40;
+     color:white;
+     font-size:14px;
+     letter-spacing: .08em;
+     font-weight: 500;
+ }
+ .copyright {
+     float: left;
+
+ }
+ .message{
+     float: right;
+ }
+ .clearfix:after {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+    font-size: 0;
+    }
+    .name {
+        color:#f15b31 ;
+        font-weight: 700;
+    }
+    a {
+        border-bottom: 2px solid transparent;
+        
+    }
+    a:hover {
+        background-color: black;
+    }
